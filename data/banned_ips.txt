@@ -1,0 +1,3 @@
+# Inside your block logic in app.py
+with open("banned_ips.txt", "a") as f:
+    f.write(f"{src_ip},{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
