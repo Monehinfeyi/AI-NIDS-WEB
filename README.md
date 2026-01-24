@@ -22,4 +22,10 @@ Without this app, your server crashes, and you wake up to a broken website.
 With this app, the AI detects the flood within 2 seconds, blocks the botnet's IPs, logs the event, and sends a notification to your dashboard—all while you are still asleep.
 
 ## 🏁 Final Summary
-In short: This app replaces human observation with AI automation to protect a network from cyber threats 24/7.
+In short, this app replaces human observation with AI automation to protect a network from cyber threats 24/7.
+
+# AUTHOR / CONTRIBUTOR:
+## MONEHIN FEYISARA.D: Software Engineer | Cybersecurity | AI Engineer
+### EMAIL: monehinstephen@gmail.com
+### COUNTRY: Nigeria
+### CITY: Lagos
