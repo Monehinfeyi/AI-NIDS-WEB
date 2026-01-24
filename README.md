@@ -24,8 +24,8 @@ With this app, the AI detects the flood within 2 seconds, blocks the botnet's IP
 ## 🏁 Final Summary
 In short, this app replaces human observation with AI automation to protect a network from cyber threats 24/7.
 
-# AUTHOR / CONTRIBUTOR:
-## MONEHIN FEYISARA.D: Software Engineer | Cybersecurity | AI Engineer
-### EMAIL: monehinstephen@gmail.com
-### COUNTRY: Nigeria
-### CITY: Lagos
+### AUTHOR / CONTRIBUTOR:
+#### MONEHIN FEYISARA.D: Software Engineer | Cybersecurity | AI Engineer
+#### EMAIL: monehinstephen@gmail.com
+#### COUNTRY: Nigeria
+#### CITY: Lagos
